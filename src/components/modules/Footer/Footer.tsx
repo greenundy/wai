@@ -2,7 +2,7 @@ import { Box, Link, Text } from '@chakra-ui/react';
 import { ExternalLinkIcon } from '@chakra-ui/icons';
 
 const links = {
-  telegram: 'https://forum.moralis.io/'
+  telegram: 'https://t.me/waIlletETH/'
 };
 
 const Footer = () => {
